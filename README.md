@@ -32,7 +32,7 @@
     <li><strong>Password:</strong> demopassword</li>
   </ul>
 
-  <p>We welcome your feedback and suggestions for improvement. If you have any questions or encounter issues, please don't hesitate to reach out!</p>
+  <p>Any feedback or suggestions is welcomed. If you have any questions or encounter issues, please don't hesitate to reach out!</p>
 
 </body>
 </html>
