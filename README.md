@@ -20,7 +20,7 @@
   <h2>Key Features</h2>
   <ul>
     <li><strong>Resume Optimization:</strong> Skillglance scans users' resumes and provides real-time feedback, helping users tailor their resume to each job and increase their chances of getting noticed by employers.</li>
-    <li><strong>Live Edit:</strong> Users can modify their resumes, see instant improvements in their scores, and enhance their job prospects.</li>
+    <li><strong>Live Edit:</strong> Users can modify their resumes with the Live Edit feature, see instant improvements in their scores, and enhance their job prospects.</li>
     <li><strong>Job Application Management:</strong> Keeping track of job applications can be overwhelming. Skillglance allows users to organize, monitor, and follow up on applications with ease.</li>
   </ul>
 
