@@ -8,7 +8,7 @@
 
   <h1>Welcome to Skillglance!</h1>
   
-  <p>Skillglance is a self-initiated project designed to empower students in optimizing their resumes for better alignment with the specific requirements of their desired jobs.</p>
+  <p>Skillglance is a self-initiated project designed to empower job-seekers in optimizing their resumes for better alignment with the specific requirements of their desired jobs.</p>
 
   <h2>Technologies Used</h2>
   <p>The project leverages a robust tech stack for both server and client-side development:</p>
